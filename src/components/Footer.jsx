@@ -21,7 +21,7 @@ function Footer() {
       >
 
         <VStack w={'full'} alignItems={['center','flex-start']}>
-            <Text fontWeight={'bold'}>About Us</Text>
+            <Text fontWeight={'bold'}>About Me</Text>
             <Text fontSize={'sm'} letterSpacing={'widest'} textAlign={['center','left']}>Best Crypto Info Page Made By Rashad , we provide the details of all Coins and Exchanges in this Page</Text>
         </VStack>
         <VStack>
